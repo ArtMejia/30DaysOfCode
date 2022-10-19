@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d9f961cc-110b-4369-83f7-1d57738c4955" name="Changes" comment="30 Days Of Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day10_Binary_Numbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_Binary_Numbers/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,33 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Day19_Interfaces.Solution">
+    <configuration name="Day10_Binary_Numbers.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_Binary_Numbers.Solution" />
+      <module name="ThirtyDaysOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10_Binary_Numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day19_Interfaces.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day19_Interfaces.Solution" />
+      <module name="ThirtyDaysOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day19_Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day0_Hello_World.Solution" />
       <module name="ThirtyDaysOfCode" />
@@ -55,6 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day19_Interfaces.Solution" />
+        <item itemvalue="Application.Day10_Binary_Numbers.Solution" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -110,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665629423038</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="30 Days Of Code">
+      <created>1665890704729</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665890704729</updated>
+    </task>
+    <task id="LOCAL-00008" summary="30 Days Of Code">
+      <created>1666054476514</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666054476514</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

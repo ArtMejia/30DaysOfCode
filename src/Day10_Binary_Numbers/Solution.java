@@ -13,14 +13,16 @@ public class Solution {
         bufferedReader.close();
 
         String nBinary = Integer.toBinaryString(n);
-        int aux = 0;
+        int times = 0;
         int result = 0;
         for(int i = 0; i < nBinary.length(); i++){
             if(nBinary.charAt(i) == '1'){
-                aux++;
-                if(aux > result) result = aux;
-            }else{
-                aux = 0;
+                times++;
+                if(times > result) {
+                    result = times;
+                }
+            }else {
+                times = 0;
             }
         }
         System.out.println(result);

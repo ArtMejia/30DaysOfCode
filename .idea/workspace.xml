@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9f961cc-110b-4369-83f7-1d57738c4955" name="Changes" comment="30 Days Of Code">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_LinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/LinkedListUS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10_Binary_Numbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_Binary_Numbers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Day19_Interfaces.Solution">
+}]]></component>
+  <component name="RunManager" selected="Application.LinkedListUS">
     <configuration name="Day10_Binary_Numbers.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day10_Binary_Numbers.Solution" />
       <module name="ThirtyDaysOfCode" />
@@ -67,6 +73,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Factorial" />
+      <module name="ThirtyDaysOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListUS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListUS" />
+      <module name="ThirtyDaysOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day0_Hello_World.Solution" />
       <module name="ThirtyDaysOfCode" />
@@ -82,6 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListUS" />
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Day19_Interfaces.Solution" />
         <item itemvalue="Application.Day10_Binary_Numbers.Solution" />
         <item itemvalue="Application.Solution" />
@@ -153,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666054476514</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="30 Days Of Code">
+      <created>1666139500735</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666139500735</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

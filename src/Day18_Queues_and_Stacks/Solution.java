@@ -7,23 +7,23 @@ import java.util.Stack;
 
 public class Solution {
 
-    Stack<Character> st = new Stack<>();
-    Queue<Character> qu = new LinkedList<>();
+    Stack<Character> characterStack = new Stack<>();
+    Queue<Character> characterQueue = new LinkedList<>();
 
     void pushCharacter(char ch) {
-        st.push(ch);
+        characterStack.push(ch);
     }
 
     void enqueueCharacter(char ch) {
-        qu.add(ch);
+        characterQueue.add(ch);
     }
 
     char popCharacter() {
-        return st.pop();
+        return characterStack.pop();
     }
 
     char dequeueCharacter() {
-        return qu.remove();
+        return characterQueue.remove();
     }
 
     public static void main(String[] args) {

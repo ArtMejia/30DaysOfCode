@@ -1,8 +1,6 @@
 package Day10_Binary_Numbers;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 
 public class Solution {
     public static void main(String[] args) throws IOException {
@@ -13,16 +11,16 @@ public class Solution {
         bufferedReader.close();
 
         String nBinary = Integer.toBinaryString(n);
-        int times = 0;
+        int aux = 0;
         int result = 0;
-        for(int i = 0; i < nBinary.length(); i++){
-            if(nBinary.charAt(i) == '1'){
-                times++;
-                if(times > result) {
-                    result = times;
+        for (int i = 0; i < nBinary.length(); i++) {
+            if (nBinary.charAt(i) == '1') {
+                aux++;
+                if (aux > result) {
+                    result = aux;
                 }
-            }else {
-                times = 0;
+            } else {
+                aux = 0;
             }
         }
         System.out.println(result);

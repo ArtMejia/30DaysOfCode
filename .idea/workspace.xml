@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9f961cc-110b-4369-83f7-1d57738c4955" name="Changes" comment="30 Days of Code">
+    <list default="true" id="d9f961cc-110b-4369-83f7-1d57738c4955" name="Changes" comment="Complete Day 23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -244,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667498908969</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Complete Day 23">
+      <created>1667500459396</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667500459396</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +269,7 @@
     <MESSAGE value="30 Days Of Code" />
     <MESSAGE value="Completed Day 22" />
     <MESSAGE value="30 Days of Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 Days of Code" />
+    <MESSAGE value="Complete Day 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Day 23" />
   </component>
 </project>

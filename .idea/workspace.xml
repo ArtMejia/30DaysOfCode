@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9f961cc-110b-4369-83f7-1d57738c4955" name="Changes" comment="Complete Day 24">
-      <change afterPath="$PROJECT_DIR$/src/Day25_Running_Time_and_Complexity/Solution.java" afterDir="false" />
+    <list default="true" id="d9f961cc-110b-4369-83f7-1d57738c4955" name="Changes" comment="Started Day 25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day25_Running_Time_and_Complexity/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day25_Running_Time_and_Complexity/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedListUS">
+  <component name="RunManager" selected="Application.Day25_Running_Time_and_Complexity.Solution">
     <configuration name="Day10_Binary_Numbers.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day10_Binary_Numbers.Solution" />
       <module name="ThirtyDaysOfCode" />
@@ -61,6 +61,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day19_Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day25_Running_Time_and_Complexity.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25_Running_Time_and_Complexity.Solution" />
+      <module name="ThirtyDaysOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day25_Running_Time_and_Complexity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day0_Hello_World.Solution" />
-      <module name="ThirtyDaysOfCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day0_Hello_World.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day25_Running_Time_and_Complexity.Solution" />
         <item itemvalue="Application.LinkedListUS" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Day19_Interfaces.Solution" />
         <item itemvalue="Application.Day10_Binary_Numbers.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667690655759</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Started Day 25">
+      <created>1667849609773</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667849609773</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +293,7 @@
     <MESSAGE value="30 Days of Code" />
     <MESSAGE value="Complete Day 23" />
     <MESSAGE value="Complete Day 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Day 24" />
+    <MESSAGE value="Started Day 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started Day 25" />
   </component>
 </project>
